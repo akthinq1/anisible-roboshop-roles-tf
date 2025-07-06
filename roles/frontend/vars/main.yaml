@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.akdevops.fun
+USER_HOST: user.akdevops.fun
+CART_HOST: cart.akdevops.fun
+SHIPPING_HOST: shipping.akdevops.fun
+PAYMENT_HOST: payment.akdevops.fun

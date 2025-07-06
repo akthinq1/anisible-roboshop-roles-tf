@@ -1,0 +1,2 @@
+REDIS_HOST: redis.akdevops.fun
+MONGODB_HOST: mongodb.akdevops.fun

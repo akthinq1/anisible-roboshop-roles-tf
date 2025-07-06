@@ -1,0 +1,5 @@
+CART_HOST: cart.akdevops.fun
+USER_HOST: user.akdevops.fun
+RABBITMQ_HOST: rabbitmq.akdevops.fun
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
