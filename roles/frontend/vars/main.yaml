@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.akdevops.fun
-USER_HOST: user.akdevops.fun
-CART_HOST: cart.akdevops.fun
-SHIPPING_HOST: shipping.akdevops.fun
-PAYMENT_HOST: payment.akdevops.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.akdevops.fun
+USER_HOST: user.backend-{{ env }}.akdevops.fun
+CART_HOST: cart.backend-{{ env }}.akdevops.fun
+SHIPPING_HOST: shipping.backend-{{ env }}.akdevops.fun
+PAYMENT_HOST: payment.backend-{{ env }}.akdevops.fun
