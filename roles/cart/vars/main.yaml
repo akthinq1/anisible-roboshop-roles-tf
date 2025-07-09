@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.akdevops.fun
-REDIS_HOST: redis.akdevops.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.akdevops.fun # how do call cart to catalogue -> using ALB we can call catalogue
+REDIS_HOST: redis-{{ env }}.akdevops.fun

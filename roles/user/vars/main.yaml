@@ -1,2 +1,2 @@
-REDIS_HOST: redis.akdevops.fun
-MONGODB_HOST: mongodb.akdevops.fun
+REDIS_HOST: redis-{{ env }}.akdevops.fun
+MONGODB_HOST: mongodb-{{ env }}.akdevops.fun

@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql.akdevops.fun
+MYSQL_HOST: mysql-{{ env }}.akdevops.fun
 MYSQL_ROOT_USER: root
 MYSQL_ROOT_PASSWORD: RoboShop@1
-CART_HOST: cart.akdevops.fun
+CART_HOST: cart.backend-{{ env }}.akdevops.fun
