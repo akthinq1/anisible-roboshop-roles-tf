@@ -17,9 +17,9 @@
     state: import
     target: "{{ item }}"
   loop:
-  - /app/db/schema.sql
-  - /app/db/app-user.sql
-  - /app/db/master-data.sql
+    - /app/db/schema.sql
+    - /app/db/app-user.sql
+    - /app/db/master-data.sql
 
 - name: systemd setup
   include_role:
